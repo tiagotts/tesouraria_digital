@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="3">
   <diagram name="Infra Estrutura de comunicação" id="r31mNQXhlYBbTmS-FtaR">
     <mxGraphModel dx="2074" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,6 +138,57 @@
         </mxCell>
         <mxCell id="AH1adNombmmw1FnsNmIA-53" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
           <mxGeometry x="45" y="370" width="395" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="P0t9KzrNodGsaRFYRurn" name="Login">
+    <mxGraphModel dx="1714" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NYS647m86gorgI4VtkIJ-1" value="Login" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="400" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="NYS647m86gorgI4VtkIJ-2" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="NYS647m86gorgI4VtkIJ-1">
+          <mxGeometry width="400" height="10" relative="1" as="geometry">
+            <mxPoint y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYS647m86gorgI4VtkIJ-3" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.x;strokeColor=#868686;strokeWidth=2;" vertex="1" parent="NYS647m86gorgI4VtkIJ-1">
+          <mxGeometry x="1" width="8" height="8" relative="1" as="geometry">
+            <mxPoint x="-24" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYS647m86gorgI4VtkIJ-4" value="Cpf ou Email" style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="NYS647m86gorgI4VtkIJ-1">
+          <mxGeometry width="400" height="40" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYS647m86gorgI4VtkIJ-5" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;fillColor=none;align=left;verticalAlign=middle;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="NYS647m86gorgI4VtkIJ-1">
+          <mxGeometry width="380" height="40" relative="1" as="geometry">
+            <mxPoint x="10" y="100" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYS647m86gorgI4VtkIJ-6" value="Senha" style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="NYS647m86gorgI4VtkIJ-1">
+          <mxGeometry width="400" height="40" relative="1" as="geometry">
+            <mxPoint y="160" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYS647m86gorgI4VtkIJ-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;fillColor=none;align=left;verticalAlign=middle;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="NYS647m86gorgI4VtkIJ-1">
+          <mxGeometry width="380" height="40" relative="1" as="geometry">
+            <mxPoint x="10" y="200" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYS647m86gorgI4VtkIJ-8" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="NYS647m86gorgI4VtkIJ-1">
+          <mxGeometry width="400" height="10" relative="1" as="geometry">
+            <mxPoint y="290" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYS647m86gorgI4VtkIJ-9" value="Acessar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="NYS647m86gorgI4VtkIJ-1">
+          <mxGeometry x="1" y="1" width="110" height="40" relative="1" as="geometry">
+            <mxPoint x="-130" y="-60" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
