@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="3">
   <diagram name="Infra Estrutura de comunicação" id="r31mNQXhlYBbTmS-FtaR">
-    <mxGraphModel dx="2074" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1714" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
         <mxCell id="mFi_zFzauyfVC6vekm5a-26" value="Banco de dados" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="340" y="159" width="135" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mFi_zFzauyfVC6vekm5a-28" value="BlochChain" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="mFi_zFzauyfVC6vekm5a-28" value="BlockChain" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="51" y="230" width="135" height="50" as="geometry" />
         </mxCell>
       </root>
